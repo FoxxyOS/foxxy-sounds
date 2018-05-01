@@ -1,0 +1,12 @@
+Package: foxxy-sounds
+Version: 0.9
+Architecture: all
+Maintainer: Lorenzo EclipseSparl Faletra <eclipse@frozenbox.org>
+Installed-Size: 41
+Recommends: mate-settings-daemon-pulse, pulseaudio, pulseaudio-utils, pulseaudio-module-bluetooth, alsa-utils, paprefs
+Includes: pulseaudio
+Replaces: pulseaudio
+Section: multimedia
+Priority: optional
+Description: Boot sound for Foxxy Security OS
+ Boot sound for Foxxy Security OS
